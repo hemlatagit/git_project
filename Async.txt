@@ -1,1 +1,2 @@
 this is the asynchronous file. Asycnchronous means non-blocking code.
+Asycnchronous or synchronous concept use in javascript.
